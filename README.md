@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halo, saya Adam Havenia Pratama! 👋
 
-<!--
-**Voin14/Voin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang **Penulis** di [Analitica.id](https://www.signalhire.com/companies/analitica-id), sebuah platform edukasi yang dirancang khusus untuk persiapan ujian seperti UTBK SBMPTN, Ujian Mandiri, Kedinasan, CPNS, dan Olimpiade.
 
-Here are some ideas to get you started:
+## 🏸 Prestasi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selain berkontribusi dalam dunia pendidikan, saya juga aktif dalam olahraga bulu tangkis. Bersama rekan saya, Doni Muhammad Fauzi, kami berhasil meraih **Juara II** dalam kompetisi **ABC 2024** yang diselenggarakan oleh UKM Bulutangkis Universitas Airlangga. [Lihat pengumuman resmi](https://www.instagram.com/bulutangkisunair/p/C89VvM_p2kZ/)
+
+## 📊 Proyek Terbaru
+
+Saya telah mengembangkan sebuah **Dashboard Publik E-commerce** menggunakan Streamlit. Dashboard ini menampilkan produk-produk yang paling banyak dibeli dan memberikan wawasan mendalam tentang tren pembelian. [Lihat proyek](https://tugasdicodingadam.streamlit.app/)
+
+
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau berdiskusi lebih lanjut.
