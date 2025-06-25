@@ -7,7 +7,6 @@ Saya adalah seorang yang sedang belajar **Data Scientist** / **Data Analyst** / 
 * **Machine Learning:** Pengembangan dan implementasi model untuk klasifikasi, regresi, *clustering*, dan *natural language processing (NLP)*.
 * **Data Analysis & Visualization:** Mengungkap pola dan tren melalui analisis eksplorasi data (EDA) dan menyajikannya dalam visualisasi yang mudah dipahami.
 * **Predictive Modeling:** Membangun dan mengoptimalkan model untuk peramalan dan prediksi.
-* **Big Data Technologies:** (Opsional, jika relevan) Mengelola dan memproses dataset skala besar.
 * **Statistical Inference:** Penerapan metode statistik untuk penarikan kesimpulan berdasarkan data.
 * **Business Intelligence:** Menerjemahkan hasil analisis data ke dalam rekomendasi bisnis yang konkret.
 
