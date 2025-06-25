@@ -37,8 +37,8 @@ Berikut adalah beberapa teknologi dan alat yang sering saya gunakan:
 
 ### 📊 Statistik GitHub Saya
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voin14&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voin14&layout=compact&theme=radical)
 
 <p align="left">
 <a href="https://github.com/Voin14">
